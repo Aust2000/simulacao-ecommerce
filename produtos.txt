@@ -1,0 +1,5 @@
+Processador,Processador Intel Core i3 10 Geração,379.99,4
+Placa de Vídeo,Placa de Vídeo Nvidea GTX 1050 Ti,849.99,2
+Memoria RAM,Memória RAM Corsair Vengance 32GB,959.99,13
+HD,HD Toshiba Surveillance 2TB,449.99,10
+SSD,SSD Kingston A400 480GB,225.99,8
